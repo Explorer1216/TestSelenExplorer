@@ -10,4 +10,7 @@ public class Test1 {
 	//commit4
 	
 	//commit5
+	
+	int a=10;
+	
 }
