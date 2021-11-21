@@ -11,7 +11,9 @@ public class Test1 {
 	
 	//commit5
 	
+	
 	int a=10;
 	int b=15;
 	int c =20;
+	int Sum =a+b+c;
 }
